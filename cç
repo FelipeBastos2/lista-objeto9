@@ -1,0 +1,119 @@
+## Objetos:
+
+Pessoa
+
+Animal
+
+Carro
+
+Endereço
+
+Celular
+
+Mesa
+
+Cadeira
+
+Garrafa
+
+Relogio
+
+Prato
+
+## Skills
+
+Pessoa:                              Ações:
+
+NomeAndar
+
+Idade                                  Falar
+
+Cpf                                      Reproduzir
+
+Peso                                    Comer
+
+Altura                                  Dormir 
+
+Etinia                             
+
+Animal                                 Ações:
+
+Espécie                              Andar
+
+Cor                                   Comer
+
+Raça                                 Reproduzir
+
+Idade                                Dormir
+
+Peso                                 Predar
+
+Tamanho                                 
+
+Carro:                              Ações:
+Marca                              Locomover
+
+Cor                                  Trazer Conforto
+
+Modelo                            Lazer 
+
+Chassi                              
+
+Endereço:                           Ações:
+
+Rua                              Identificar residencia 
+
+Numero                              Referencia
+Bairro                              
+
+Cep                              
+
+Celular:                              Ações:                   
+
+Cor                              Realizar ligações
+
+Marca                              Informações
+Modelo                              Foto
+
+Tamanho                            Video
+
+IMEI                             
+
+Impressora:                     Ações:         
+
+Material                     Fazer cópias        
+Cor                              Imprimir
+
+Tamanho 
+
+Relógio/2:                              Ações:
+
+Cor                              Informar as horas
+Marca
+
+Material
+Modelo
+
+Garrafa:                              Ações:
+Cor                              Armazenar conteudo
+
+Material                              Fazer barulho
+
+Tamanho
+
+Fogão:                              Ações:
+Cor                              Gerar fogo
+
+Modelo                            Assar
+
+Marca                         Gerar emprego
+
+Material
+
+Livros:                              Ações:
+Cor                          Guardar informações
+Tamanho             Compartilhar informações
+
+Nome                                 Entreter 
+
+Material
